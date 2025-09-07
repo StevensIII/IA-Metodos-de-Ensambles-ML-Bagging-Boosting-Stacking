@@ -14,7 +14,7 @@ Stevens Bohórquez
 
 
 
-Juan Arroyave
+
 
 
 
@@ -38,15 +38,7 @@ Comparar resultados y extraer conclusiones sobre la efectividad de Bagging, Boos
 
 
 
-📂 Estructura del Repositorio
 
-IA-Ensambles-ML/
-
-│── 📘 IA-Ensambles-ML-Bagging-Boosting-Stacking-Clasificacion.ipynb  
-
-│── 📘 IA-Ensambles-ML-Bagging-Boosting-Stacking-Regresion.ipynb  
-
-│── README.md  
 
 
 
